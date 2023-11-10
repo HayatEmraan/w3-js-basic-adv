@@ -1,0 +1,36 @@
+1. What is JavaScript Statements?
+- JavaScript Statements are composed of values, operators, expressions, keywords & comments.
+3. Who separate JavaScript Statements?
+- Semicolons; 
+3. Is JavaScript ignores multiple white space? 
+- yes ! 
+4. How JavaScript Statements can be grouped together? 
+- Inside curly brackets {...}
+5. What is JavaScript keywords? 
+- JavaScript statements often start with a keyword to identify the JavaScript action to be performed.
+6. What is JavaScript Syntax?
+- JavaScript syntax is the set of rules, to be "executed" by a computer.
+7. How to define JavaScript syntax?
+- The JavaScript syntax defines two types of values:
+    Fixed values
+    Variable values
+    Fixed values are called Literals.
+    Variable values are called Variables.
+8. How to declare variables in JavaScript? 
+- JavaScript uses the keywords var, let and const to declare variables.
+9. JavaScript Identifiers / Names
+- A JavaScript name must begin with:
+    A letter (A-Z or a-z)
+    A dollar sign ($)
+    Or an underscore (_)
+10. Is JavaScript is Case Sensitive?
+- yes !
+11. What should we used JavaScript comments?
+- avaScript comments can be used to explain JavaScript code, and to make it more readable, prevent execution, when testing alternative code.
+12. What is JavaScript Variables? 
+- Variables are Containers for Storing Data. 
+13. How many data types in JavaScript?
+- JavaScript has 8 Data types.
+14. What is JavaScript Functions?
+- A JavaScript function is a block of code designed to perform a particular task.
+15. 
